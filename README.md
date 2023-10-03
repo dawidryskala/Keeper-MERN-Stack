@@ -2,6 +2,10 @@
 
 ## Available Scripts
 
+Once you download the project, you must enter `npm i` to download all necessary dependencies
+
+### `npm i`
+
 In the project directory, you can run:
 
 ### `npm start`
