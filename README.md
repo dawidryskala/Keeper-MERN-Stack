@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Keeper MERN stack
+
+### `Project description`
+
+This project is an extension of the last project from the React.js module from "The Complete 2023 Web Development Bootcamp" by Angela Yu. I wanted to expand the local project with the MongoDB database, but I had a lot of difficulties. I came across "How to Use MERN Stack: A Complete Guide" by MongoDB. There is a very well presented example of the use of the MERN stack, which I studied and used for my own use.
+
+This video shows how this site works.
+
+https://github.com/dawidryskala/Keeper-MERN-stack/assets/141305850/88179051-e5b8-4d25-8cbc-282985cb12b3
 
 ## Available Scripts
 
@@ -44,14 +52,6 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-### Project description
-
-This project is an extension of the last project from the React.js module from "The Complete 2023 Web Development Bootcamp" by Angela Yu. I wanted to expand the local project with the MongoDB database, but I had a lot of difficulties. I came across "How to Use MERN Stack: A Complete Guide" by MongoDB. There is a very well presented example of the use of the MERN stack, which I studied and used for my own use.
-
-This video shows how this site works.
-
-https://github.com/dawidryskala/Keeper-MERN-stack/assets/141305850/88179051-e5b8-4d25-8cbc-282985cb12b3
 
 
 
