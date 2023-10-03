@@ -8,14 +8,15 @@ This video shows how this site works.
 
 https://github.com/dawidryskala/Keeper-MERN-stack/assets/141305850/88179051-e5b8-4d25-8cbc-282985cb12b3
 
-![1](https://github.com/dawidryskala/Keeper-MERN-stack/assets/141305850/77425d5e-d13b-4aaa-a859-4912593599c2)
+
 
 ### `MongoDB`
 Remember, I'm using MongoDB here, so you need to create your project and a cluster to which you will get a link containing your private <name> and <password>. You must save this link in an .env file in the server folder under the ATLAS_URI variable. If you want a different one, no problem, you just have to change the in conn.mjs variable to your own in the server/db/conn.mjs file
 
 ![2](https://github.com/dawidryskala/Keeper-MERN-stack/assets/141305850/7f959508-bd29-44ae-a120-037469cec951)
 
-![Uploading 3.png…]()
+![3](https://github.com/dawidryskala/Keeper-MERN-stack/assets/141305850/93694c63-c233-4fa2-ac93-6e003295c882)
+
 
 
 ## Available Scripts
